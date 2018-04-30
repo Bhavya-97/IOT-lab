@@ -6,6 +6,7 @@
 
 int32_t main()
 {
+	
 	char TEXT[16];
 	int32_t a;
 
